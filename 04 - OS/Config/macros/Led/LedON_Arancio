@@ -1,0 +1,11 @@
+;M150
+;Rnnn Red component, 0-255
+;Unnn Green component, 0-255
+;Bnnn Blue component, 0-255
+;Wnnn White component, 0-255 (Only for RGBW NeoPixel)
+;Pnnn Brightness, 0-255
+;Ynn Brightness, 0-31 (alternative to P 0-255)
+;Snnn Number of individual LEDs to set to these colours, default 1
+;Fn Following command action. F0 (default) means this is the last command for the LED strip, so the next M150 command starts at the beginning of the strip. F1 means ;further M150 commands for the remainder of the strip follow this one.
+;En LED strip number, default 0. See M950 for defining the LED strip number, pin and LED type.
+M150 E0 r100 u10 P255 S18 F0 

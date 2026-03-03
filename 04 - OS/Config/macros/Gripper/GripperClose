@@ -1,0 +1,6 @@
+;M280: Set servo position
+;Parameters
+;Pnnn Servo index
+;Snnn Angle (see notes) or microseconds
+
+M280 P7 S10 
