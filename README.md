@@ -7,7 +7,7 @@
 [![English versionson](https://img.shields.io/badge/lang-en-red.svg)](README-EN.md)
 
 # Manipolatore Antropomorfo 
-Primo è il nostro manipolatore antropomorfo interamente stampato in 3d, progettato e realizzato da [Crea3d](https://www.crea3d.com/it/) per il settore STEM.
+Primo è il nostro manipolatore antropomorfo interamente stampato in 3d, progettato e realizzato da [Crea3D](https://www.crea3d.com/it/) per il settore STEM.
 ### 🦾Caratteristiche Principali <!-- (v0.0) -->
 
 * **6 Gradi di Libertà (6 DOF):** Manipolatore a catena cinematica aperta, ispirato ai robot industriali.
@@ -30,6 +30,13 @@ Primo è un braccio robotico a 6 assi open source interamente realizzato utilizz
 * **03-Digital Twin:** Contiene il modello gemello digitale per poterlo utilizzare con RoboDk. 
 * **04-OS:** Contiene i file necessari a montare l'immagine dell'OS sul Raspberry Pi, precaricata con tutti i tool e le configurazioni necessarie.
 
+### ⬇️ Dove posso trovare i file di stampa ?
+
+Puoi trovare i file ufficiali anche sulle piattaforme:
+
+👉 **[MakerWorld](https://makerworld.com/it/models/2473047-primo-v1-1-6-dof-robotic-arm#profileId-2715454)**
+
+👉 **[Printables](https://www.printables.com/?lang=it)**
 
 
 
@@ -37,6 +44,7 @@ Primo è un braccio robotico a 6 assi open source interamente realizzato utilizz
 Se un pezzo stampato dovesse rompersi, nessun problema, grazie ai file a disposizione, puoi semplicemente ristamparlo in autonomia, senza dover attendere pezzi di ricambio o contattare l'assistenza.
 
 Nella cartella 01-CAD troverai sia i file STL, ideali se vuoi sperimentare con parametri di stampa e materiali diversi,  già ottimizzati e pronti per essere stampati.
+
 
 ## 🚀 Per Iniziare
 

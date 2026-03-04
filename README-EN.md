@@ -30,6 +30,14 @@ assembly manual.
 * **04-OS:** Contains the files needed to mount the OS image on the Raspberry Pi, preloaded with all the necessary tools and features.
 
 
+### ⬇️ Where can I find the print files?
+
+You can also find the official files on the following platforms:
+
+👉 **[MakerWorld](https://makerworld.com/it/models/2473047-primo-v1-1-6-dof-robotic-arm#profileId-2715454)**
+
+👉 **[Printables](https://www.printables.com/?lang=it)**
+
 
 #### And if something goes wrong 🤕?
 If a printed part breaks, no problem; thanks to the available files, you can simply reprint it yourself without having to wait for spare parts or contact support.
